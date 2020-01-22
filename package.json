@@ -62,7 +62,7 @@
     "http-proxy": "^1.16.2",
     "is-glob": "^4.0.0",
     "lodash": "^4.17.5",
-    "micromatch": "^3.1.9"
+    "micromatch": "^4.0.0"
   },
   "engines": {
     "node": ">=4.0.0"
